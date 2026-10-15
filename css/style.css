@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+}
+
+.float{
+    float: left;
+}
+.clear-fix{
+    clear: both;
+}
+.text-center{
+    text-align: center;
+}
+.bg-color{
+    background-color: rgba(0, 75,135, 1);
+}
+.title-color{
+    color: rgba(0, 75,135, 1);
+    padding: 30px 25px 0px;
+}
+.secondary-color{
+    color: blue;
+}
+.paragraph-color{
+    color: rgb(2, 2, 75);
+}
+.body-color{
+    background-color: lightgray;
+}
+.hr-color{
+    margin: 0px 25px;
+    color:rgba(231, 230, 230, 0.692);
+}
+.intro button{
+    background-color: rgba(3, 97, 155, 0.9);
+    color: white;
+    border-radius: 20px;
+    border:unset;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px 2px 20px 2px;
+}
+
+.intro{
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.intro h1{
+    color: white;
+}
+.intro p{
+color: rgb(108, 217, 236);
+}
+
+.about-me{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+.about-me img{
+    width: 125px;
+    margin: 15px 10px 10px 20px;
+    border-radius: 50%;
+}
+.about-me span{
+    color: blue;
+}
+.about-me p{
+    margin: 20px 35px;
+}
+.about-me button{
+    color: white;
+    background-color:rgb(20, 118, 199);
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+.skills{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+}
+.skills p{
+ padding: 5px 15px ;
+}
+.technologies{
+    background-color: rgba(0, 140, 255, 0.1);
+    width: 22%;
+    border-radius: 20px;
+    margin: 0px 1.5% 30px;
+    padding: 10px;
+}
+.technologies h3{
+    padding: 0px 15px ;
+}
+.exp{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding:0px 20px 25px;
+}
+.work{
+    background-color: rgb(233, 228, 228);
+    border-left:5px solid blue;
+    border-radius: 20px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px ;
+}
+.exp h2{
+    color: rgba(0, 75,135, 1);
+    padding: 30px 5px 0px;
+}
+.exp hr{
+    margin: 0 5px;
+    color:rgba(231, 230, 230, 0.692);
+}
+.company-image img{
+    width: 100px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px 20px 0px;
+    border: 2px solid rgb(184, 230, 241);
+    border-radius: 10px;
+}
+.company-info{
+width: 300px;
+}
+.work p{
+    margin: 5px 15px ;
+    padding-bottom: 15px;
+}
+.contact-me{
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.contact-me h2{
+    color: white ;
+    padding: 30px 25px 0px;
+}
+.contact-me p{
+    color: white;
+    padding: 5px 25px 0px;
+}
+.spacing-btn{
+    margin-left: 30px;
+}
+.contact-me button{
+    background-color: rgba(3, 97, 155, 0.9);
+    color: white;
+    border-radius: 10px;
+    border:unset;
+    cursor: pointer;
+    padding: 15px;
+    margin: 5px 5px 30px;
+}
+.copy-right{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(3, 3, 59);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.copy-right p{
+    color: white;
+    padding:40px ;
+}
+.copy-right span{
+    font-weight: 700;
+    color: rgb(108, 217, 236);
+}
